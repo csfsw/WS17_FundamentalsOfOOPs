@@ -7,7 +7,6 @@ class Input{
 public:
     Input();
 };
-
 Input::Input(){
     cout<<"Enter serial no: ";
     cin>>srNo;
